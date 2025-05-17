@@ -1,5 +1,6 @@
-# Econectar - Aplicativo de Reciclagem
-Projeto de um aplicativo web feito com Django que conecta usuários a pontos de coleta de materiais recicláveis, promove agendamentos de coleta e reforça a educação ambiental com uma interface moderna.
+# Sistema de cadastro
+
+Projeto para criação de um sistema de cadastro para universidade. O sistema comporta:
 
 - Cadastro de Pessoa Física ​
 - Cadastro de Pessoa Jurídica ​
