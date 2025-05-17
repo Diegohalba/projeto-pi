@@ -1,4 +1,4 @@
-# Sistema de cadastro
+# Econectar - Aplicativo de Reciclagem
 Projeto para criação de um sistema de cadastro para universidade. O sistema comporta:
 
 - Cadastro de Pessoa Física ​
